@@ -1,0 +1,27 @@
+{
+  "name": "yld-discord-bot",
+  "version": "1.0.0",
+  "description": "yld discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dryhten/yld-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js"
+  ],
+  "author": "Mihail Dunaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dryhten/yld-discord-bot/issues"
+  },
+  "homepage": "https://github.com/dryhten/yld-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
